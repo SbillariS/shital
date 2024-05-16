@@ -8,6 +8,7 @@ public class Test
 	}
 	public void creaditcard_cheakbalance()
 	{
+		System.out.println("Your Creadit card Balance is....");
 	}
 	public void withdraw_money()
 	{
