@@ -6,8 +6,12 @@ public class Test
 	{
 		System.out.println("your balance is ......");
 	}
+	public void addmoney()
+	{
+		System.out.println("your money is deposite");
+	}
     public static void main(String args[])
-  {
-    System.out.println("This is main method");
-  }
+    {
+       System.out.println("This is main method");
+    }
 }
