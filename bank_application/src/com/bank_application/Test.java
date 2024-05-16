@@ -12,7 +12,7 @@ public class Test
     }
 	public void Loan()
 	{
-	    System.out.println("Your loan is approved");
+	    System.out.println("Your loan is approved successfully");
 	}
 	public void addmoney()
 	{
