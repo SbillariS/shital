@@ -10,6 +10,10 @@ public class Test
 	{
 		System.out.println("your money withdraw successfully");
     }
+	public void Loan()
+	{
+		
+	}
 	public void addmoney()
 	{
 		System.out.println("your money is deposite");
