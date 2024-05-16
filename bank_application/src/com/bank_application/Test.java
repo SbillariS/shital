@@ -6,9 +6,10 @@ public class Test
 	{
 		System.out.println("your balance is ......");
 	}
-	public void withdraw-money()
+	public void withdraw_money()
 	{
-        }
+		System.out.println("your money withdraw successfully");
+    }
 	public void addmoney()
 	{
 		System.out.println("your money is deposite");
